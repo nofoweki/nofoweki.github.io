@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://nofoweki.github.io/sitemap/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/xCw/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/IpO/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/DiL/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/swF/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/GmU/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/RPe/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/Pwa/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/yRo/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/KpI/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/rMq/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/gad/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/GYH/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/Pow/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/siu/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/OIy/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/MdD/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/kbQ/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/tfT/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/xAw/sitemap_index.nofoweki
+Sitemap: https://nofoweki.github.io/iIW/sitemap_index.nofoweki
